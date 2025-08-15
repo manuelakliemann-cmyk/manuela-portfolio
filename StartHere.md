@@ -7,6 +7,6 @@
       <li>Strict Filtering</li>
     </ul>
   </li>
-  <li>API/li>
+  <li>API</li>
     <ul><li>RandomSoftware API</li></ul>
 </ul>
