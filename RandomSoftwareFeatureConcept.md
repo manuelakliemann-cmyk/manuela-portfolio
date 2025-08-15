@@ -15,7 +15,7 @@ You can search for all applications that include the **Customer** data object.
 
 You can search for all applications with the **User Group** field with the **Owner** value.
 
-## Related Link 
+## Related Links
 [Strict Filtering](RandomSoftwareFilteringProcedure.md)
 
 
