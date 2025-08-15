@@ -10,7 +10,7 @@ You can use strict filtering when you want to create reports with the following 
 
 **Example**
 
-In the **Usage Type** filter, you choose to filter for the **Owner** value on a **Matrix** report.
+In the **Usage Type** filter, you choose to filter for the **Owner** value on a **Inventory** report.
 
 **Result**: Only results with the **Usage Type** field with the **Owner** value are retrieved.
 
