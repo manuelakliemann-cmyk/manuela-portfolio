@@ -1,6 +1,6 @@
 # Filtering Options
 
-Learn more about filtering options for **Landscape** report, **Matrix** report, and **Inventory** on **RandomSoftware**.
+Learn more about filtering options for **Finance** report  and **Inventory** report on **RandomSoftware**.
 In the **RandomSoftware** app, you can use the **Filter** tab and the **Advanced Search** tool to perform the following actions:
 
 * Retrieve all information related to the fact sheet. For example, all circumstances where a specific data object is contained or not in the fact sheet.
