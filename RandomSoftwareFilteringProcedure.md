@@ -18,7 +18,7 @@ In the **Usage Type** filter, you choose to filter for the **Owner** value on a 
 
 <details open><summary>Strict Filtering in Advanced Search </summary>
 
-1. Go to the **Random Software** initial page.
+1. Go to the **RandomSoftware** initial page.
 2. On the **Filter** tab, select **Advanced	 Search**.
 3. Select...
 </summary>
@@ -26,7 +26,7 @@ In the **Usage Type** filter, you choose to filter for the **Owner** value on a 
 
 <details open><summary>Strict Filtering in Filter on Relations </summary>
 
-1. Go to the **LeanIX** initial page.
+1. Go to the **RandomSoftware** initial page.
 2. On the **Filter** tab, select...
 
 </details open>
