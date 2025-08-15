@@ -3,7 +3,7 @@ You can use strict filtering in the **Advanced Search** and  **Filter on Relatio
 
 ## Context
 
-You can use strict filtering when you want to create **Landscape** or **Matrix** reports with the following:
+You can use strict filtering when you want to create reports with the following information:
 
 * All fact sheets that match the filters.
 * Only the precise data that matches the filters.
