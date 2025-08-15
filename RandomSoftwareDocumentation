@@ -1,0 +1,50 @@
+# Filtering Options
+
+Learn more about filtering options for **Landscape** report, **Matrix** report, and **Inventory** on **RandomSoftware**.
+In the **RandomSoftware** app, you can use the **Filter** tab and the **Advanced Search** tool to perform the following actions:
+
+* Retrieve all information related to the fact sheet. For example, all circumstances where a specific data object is contained or not in the fact sheet.
+
+**Example**
+
+You can search for all applications that include the **Customer** data object.
+
+* Retrieve all information related to the fact sheet's fields and search for applications where a field has a specific value.
+
+**Example**
+
+You can search for all applications with the **User Group** field with the **Owner** value.
+
+<details>
+<summary>Strict Filtering</summary>
+You can use strict filtering in the **Advanced Search** and  **Filter on Relations** tools to retrieve specific information related to the fact sheets.
+
+## Context
+
+You can use strict filtering when you want to create **Landscape** or **Matrix** reports with the following:
+
+* All fact sheets that match the filters.
+* Only the precise data that matches the filters.
+
+**Example**
+
+In the **Usage Type** filter, you choose to filter for the **Owner** value on a **Matrix** report.
+
+**Result**: Only results with the **Usage Type** field with the **Owner** value are retrieved.
+
+## Procedure
+
+## Strict Filtering in Advanced Search
+
+1. Go to the **Random Software** initial page.
+2. On the **Filter** tab, select **Advanced	 Search**.
+3. Select...
+
+## Strict Filtering in Filter on Relations
+
+1. Go to the **LeanIX** initial page.
+2. On the **Filter** tab, select...
+
+</details>
+<details>
+<summary>Strict Filtering</summary>
