@@ -16,17 +16,17 @@ In the **Usage Type** filter, you choose to filter for the **Owner** value on a 
 
 ## Procedure
 
-<details><summary>**Strict Filtering in Advanced Search**</summary>
+<details open><summary>Strict Filtering in Advanced Search </summary>
 
 1. Go to the **Random Software** initial page.
 2. On the **Filter** tab, select **Advanced	 Search**.
 3. Select...
 </summary>
-</details> 
+</details open> 
 
-<details><summary>**Strict Filtering in Filter on Relations**</summary>
+<details open><summary>Strict Filtering in Filter on Relations </summary>
 
 1. Go to the **LeanIX** initial page.
 2. On the **Filter** tab, select...
 
-</details>
+</details open>
