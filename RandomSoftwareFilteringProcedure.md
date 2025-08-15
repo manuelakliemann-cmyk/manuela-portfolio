@@ -1,11 +1,11 @@
 # Strict Filtering
-You can use strict filtering in the **Advanced Search** and  **Filter on Relations** tools to retrieve specific information related to the fact sheets.
+You can use strict filtering in the **Advanced Search** and  **Filter on Relations** tools to retrieve specific information related to the data sheets.
 
 ## Context
 
 You can use strict filtering when you want to create reports with the following information:
 
-* All fact sheets that match the filters.
+* All data sheets that match the filters.
 * Only the precise data that matches the filters.
 
 **Example**
